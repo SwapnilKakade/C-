@@ -1,0 +1,7 @@
+D:\C#\Day4\RefAndValueTypes\bin\Debug\RefAndValueTypes.exe.config
+D:\C#\Day4\RefAndValueTypes\bin\Debug\RefAndValueTypes.exe
+D:\C#\Day4\RefAndValueTypes\bin\Debug\RefAndValueTypes.pdb
+D:\C#\Day4\RefAndValueTypes\obj\Debug\RefAndValueTypes.csproj.AssemblyReference.cache
+D:\C#\Day4\RefAndValueTypes\obj\Debug\RefAndValueTypes.csproj.CoreCompileInputs.cache
+D:\C#\Day4\RefAndValueTypes\obj\Debug\RefAndValueTypes.exe
+D:\C#\Day4\RefAndValueTypes\obj\Debug\RefAndValueTypes.pdb

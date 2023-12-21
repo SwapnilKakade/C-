@@ -1,0 +1,7 @@
+D:\C#\Day6\GenericsExample\obj\Debug\GenericsExample.csproj.AssemblyReference.cache
+D:\C#\Day6\GenericsExample\obj\Debug\GenericsExample.csproj.CoreCompileInputs.cache
+D:\C#\Day6\GenericsExample\bin\Debug\GenericsExample.exe.config
+D:\C#\Day6\GenericsExample\bin\Debug\GenericsExample.exe
+D:\C#\Day6\GenericsExample\bin\Debug\GenericsExample.pdb
+D:\C#\Day6\GenericsExample\obj\Debug\GenericsExample.exe
+D:\C#\Day6\GenericsExample\obj\Debug\GenericsExample.pdb
