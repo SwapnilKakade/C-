@@ -1,0 +1,6 @@
+D:\C#\Day3\TestAccessSpecifiers\bin\Debug\TestAccessSpecifiers.dll
+D:\C#\Day3\TestAccessSpecifiers\bin\Debug\TestAccessSpecifiers.pdb
+D:\C#\Day3\TestAccessSpecifiers\obj\Debug\TestAccessSpecifiers.csproj.AssemblyReference.cache
+D:\C#\Day3\TestAccessSpecifiers\obj\Debug\TestAccessSpecifiers.csproj.CoreCompileInputs.cache
+D:\C#\Day3\TestAccessSpecifiers\obj\Debug\TestAccessSpecifiers.dll
+D:\C#\Day3\TestAccessSpecifiers\obj\Debug\TestAccessSpecifiers.pdb

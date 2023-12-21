@@ -1,0 +1,7 @@
+D:\C#\Day2\ConstructorAndObjectInitilizers\bin\Debug\ConstructorAndObjectInitilizers.exe.config
+D:\C#\Day2\ConstructorAndObjectInitilizers\bin\Debug\ConstructorAndObjectInitilizers.exe
+D:\C#\Day2\ConstructorAndObjectInitilizers\bin\Debug\ConstructorAndObjectInitilizers.pdb
+D:\C#\Day2\ConstructorAndObjectInitilizers\obj\Debug\ConstructorAndObjectInitilizers.csproj.AssemblyReference.cache
+D:\C#\Day2\ConstructorAndObjectInitilizers\obj\Debug\ConstructorAndObjectInitilizers.csproj.CoreCompileInputs.cache
+D:\C#\Day2\ConstructorAndObjectInitilizers\obj\Debug\ConstructorAndObjectInitilizers.exe
+D:\C#\Day2\ConstructorAndObjectInitilizers\obj\Debug\ConstructorAndObjectInitilizers.pdb

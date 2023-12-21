@@ -1,0 +1,7 @@
+D:\C#\Day2\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+D:\C#\Day2\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+D:\C#\Day2\Basic\bin\Debug\Basic.exe.config
+D:\C#\Day2\Basic\bin\Debug\Basic.exe
+D:\C#\Day2\Basic\bin\Debug\Basic.pdb
+D:\C#\Day2\Basic\obj\Debug\Basic.exe
+D:\C#\Day2\Basic\obj\Debug\Basic.pdb
