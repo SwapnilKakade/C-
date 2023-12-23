@@ -1,0 +1,7 @@
+D:\C#\Day10\AsyncCodeUsingDelegates\obj\Debug\AsyncCodeUsingDelegates.csproj.AssemblyReference.cache
+D:\C#\Day10\AsyncCodeUsingDelegates\obj\Debug\AsyncCodeUsingDelegates.csproj.CoreCompileInputs.cache
+D:\C#\Day10\AsyncCodeUsingDelegates\bin\Debug\AsyncCodeUsingDelegates.exe.config
+D:\C#\Day10\AsyncCodeUsingDelegates\bin\Debug\AsyncCodeUsingDelegates.exe
+D:\C#\Day10\AsyncCodeUsingDelegates\bin\Debug\AsyncCodeUsingDelegates.pdb
+D:\C#\Day10\AsyncCodeUsingDelegates\obj\Debug\AsyncCodeUsingDelegates.exe
+D:\C#\Day10\AsyncCodeUsingDelegates\obj\Debug\AsyncCodeUsingDelegates.pdb

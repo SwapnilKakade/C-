@@ -1,0 +1,7 @@
+D:\C#\Day10\LanguageFeatures\bin\Debug\LanguageFeatures.exe.config
+D:\C#\Day10\LanguageFeatures\bin\Debug\LanguageFeatures.exe
+D:\C#\Day10\LanguageFeatures\bin\Debug\LanguageFeatures.pdb
+D:\C#\Day10\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.AssemblyReference.cache
+D:\C#\Day10\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.CoreCompileInputs.cache
+D:\C#\Day10\LanguageFeatures\obj\Debug\LanguageFeatures.exe
+D:\C#\Day10\LanguageFeatures\obj\Debug\LanguageFeatures.pdb
