@@ -1,0 +1,7 @@
+D:\C#\Day9\EventHandling\bin\Debug\EventHandling.exe.config
+D:\C#\Day9\EventHandling\bin\Debug\EventHandling.exe
+D:\C#\Day9\EventHandling\bin\Debug\EventHandling.pdb
+D:\C#\Day9\EventHandling\obj\Debug\EventHandling.csproj.AssemblyReference.cache
+D:\C#\Day9\EventHandling\obj\Debug\EventHandling.csproj.CoreCompileInputs.cache
+D:\C#\Day9\EventHandling\obj\Debug\EventHandling.exe
+D:\C#\Day9\EventHandling\obj\Debug\EventHandling.pdb
