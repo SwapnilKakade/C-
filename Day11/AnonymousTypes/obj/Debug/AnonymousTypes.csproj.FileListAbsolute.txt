@@ -1,0 +1,7 @@
+D:\C#\Day11\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+D:\C#\Day11\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+D:\C#\Day11\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+D:\C#\Day11\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.AssemblyReference.cache
+D:\C#\Day11\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\C#\Day11\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+D:\C#\Day11\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
