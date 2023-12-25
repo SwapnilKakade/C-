@@ -1,0 +1,7 @@
+D:\C#\Day13\fgh\bin\Debug\fgh.exe.config
+D:\C#\Day13\fgh\bin\Debug\fgh.exe
+D:\C#\Day13\fgh\bin\Debug\fgh.pdb
+D:\C#\Day13\fgh\obj\Debug\LinqExample.csproj.AssemblyReference.cache
+D:\C#\Day13\fgh\obj\Debug\LinqExample.csproj.CoreCompileInputs.cache
+D:\C#\Day13\fgh\obj\Debug\fgh.exe
+D:\C#\Day13\fgh\obj\Debug\fgh.pdb
