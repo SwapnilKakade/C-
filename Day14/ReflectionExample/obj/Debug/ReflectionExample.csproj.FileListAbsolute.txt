@@ -1,0 +1,7 @@
+D:\C#\Day14\ReflectionExample\bin\Debug\ReflectionExample.exe.config
+D:\C#\Day14\ReflectionExample\bin\Debug\ReflectionExample.exe
+D:\C#\Day14\ReflectionExample\bin\Debug\ReflectionExample.pdb
+D:\C#\Day14\ReflectionExample\obj\Debug\ReflectionExample.csproj.AssemblyReference.cache
+D:\C#\Day14\ReflectionExample\obj\Debug\ReflectionExample.csproj.CoreCompileInputs.cache
+D:\C#\Day14\ReflectionExample\obj\Debug\ReflectionExample.exe
+D:\C#\Day14\ReflectionExample\obj\Debug\ReflectionExample.pdb

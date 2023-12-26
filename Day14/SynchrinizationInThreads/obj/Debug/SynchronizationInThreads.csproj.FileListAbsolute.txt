@@ -1,0 +1,7 @@
+D:\C#\Day14\SynchrinizationInThreads\bin\Debug\SynchrinizationInThreads.exe.config
+D:\C#\Day14\SynchrinizationInThreads\bin\Debug\SynchrinizationInThreads.exe
+D:\C#\Day14\SynchrinizationInThreads\bin\Debug\SynchrinizationInThreads.pdb
+D:\C#\Day14\SynchrinizationInThreads\obj\Debug\SynchronizationInThreads.csproj.AssemblyReference.cache
+D:\C#\Day14\SynchrinizationInThreads\obj\Debug\SynchronizationInThreads.csproj.CoreCompileInputs.cache
+D:\C#\Day14\SynchrinizationInThreads\obj\Debug\SynchrinizationInThreads.exe
+D:\C#\Day14\SynchrinizationInThreads\obj\Debug\SynchrinizationInThreads.pdb
