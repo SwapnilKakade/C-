@@ -1,0 +1,7 @@
+D:\C#\DatabaseCode\bin\Debug\DatabaseCode.exe.config
+D:\C#\DatabaseCode\bin\Debug\DatabaseCode.exe
+D:\C#\DatabaseCode\bin\Debug\DatabaseCode.pdb
+D:\C#\DatabaseCode\obj\Debug\DatabaseCode.csproj.AssemblyReference.cache
+D:\C#\DatabaseCode\obj\Debug\DatabaseCode.csproj.CoreCompileInputs.cache
+D:\C#\DatabaseCode\obj\Debug\DatabaseCode.exe
+D:\C#\DatabaseCode\obj\Debug\DatabaseCode.pdb
