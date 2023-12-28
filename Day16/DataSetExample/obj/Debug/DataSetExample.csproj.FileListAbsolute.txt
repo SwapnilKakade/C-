@@ -1,0 +1,10 @@
+D:\C#\Day16\DataSetExample\bin\Debug\DataSetExample.exe.config
+D:\C#\Day16\DataSetExample\bin\Debug\DataSetExample.exe
+D:\C#\Day16\DataSetExample\bin\Debug\DataSetExample.pdb
+D:\C#\Day16\DataSetExample\obj\Debug\DataSetExample.csproj.AssemblyReference.cache
+D:\C#\Day16\DataSetExample\obj\Debug\DataSetExample.Form1.resources
+D:\C#\Day16\DataSetExample\obj\Debug\DataSetExample.Properties.Resources.resources
+D:\C#\Day16\DataSetExample\obj\Debug\DataSetExample.csproj.GenerateResource.cache
+D:\C#\Day16\DataSetExample\obj\Debug\DataSetExample.csproj.CoreCompileInputs.cache
+D:\C#\Day16\DataSetExample\obj\Debug\DataSetExample.exe
+D:\C#\Day16\DataSetExample\obj\Debug\DataSetExample.pdb
