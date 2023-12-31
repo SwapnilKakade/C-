@@ -1,0 +1,69 @@
+﻿@model ASP.NETMVCCRUD.Models.LeadsEntity
+
+@{
+    ViewData["Title"] = "Edit Lead";
+}
+
+<div class="container d-flex align-items-center justify-content-center" style="height: 80vh;">
+    <div class="col-md-8 border rounded p-4 ">
+        <h2>Edit Lead Details</h2>
+        <hr />
+        <form asp-action="EditLeadDetails">
+            <input asp-for="Id" hidden/>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="LeadDate" class="control-label">Lead Date:</label>
+                <input asp-for="LeadDate" class="form-control" />
+                <span asp-validation-for="LeadDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Name:</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="EmailAddress" class="control-label">Email Address:</label>
+                <input asp-for="EmailAddress" class="form-control" />
+                <span asp-validation-for="EmailAddress" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Mobile" class="control-label">Mobile:</label>
+                <input asp-for="Mobile" class="form-control" />
+                <span asp-validation-for="Mobile" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="LeadSource" class="control-label">Lead Source:</label>
+                <input asp-for="LeadSource" class="form-control" />
+                <span asp-validation-for="LeadSource" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="LeadStatus" class="control-label">Lead Status:</label>
+                <input asp-for="LeadStatus" class="form-control" />
+                <span asp-validation-for="LeadStatus" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NextFollowUpDate" class="control-label">Next Follow-Up Date:</label>
+                <input asp-for="NextFollowUpDate" class="form-control" />
+                <span asp-validation-for="NextFollowUpDate" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Save Lead</button>
+                <a asp-action="Index" class="btn btn-secondary ml-2">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
